@@ -4,7 +4,8 @@
   "description": "API version of the awesome-actions project (Created by @sdras)",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "lint": "eslint --ignore-pattern .gitignore '**/*.js' --fix"
   },
   "repository": {
     "type": "git",
