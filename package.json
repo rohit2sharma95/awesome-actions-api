@@ -1,0 +1,34 @@
+{
+  "name": "awesome-actions-api",
+  "version": "1.0.0",
+  "description": "API version of the awesome-actions project (Created by @sdras)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit2sharma95/awesome-actions-api.git"
+  },
+  "keywords": [
+    "github-actions",
+    "nodejs",
+    "json",
+    "api"
+  ],
+  "author": "@rohit2sharma95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohit2sharma95/awesome-actions-api/issues"
+  },
+  "homepage": "https://github.com/rohit2sharma95/awesome-actions-api#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
