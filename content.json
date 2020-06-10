@@ -1,114 +1,114 @@
 [
-	{
-		"title": "Official Resources",
-		"url": "https://github.com/sdras/awesome-actions#official-resources",
-		"children": [
-			{
-				"title": "Workflow Examples",
-				"url": "https://github.com/sdras/awesome-actions#workflow-examples",
-				"children": null
-			},
-			{
-				"title": "Official Actions",
-				"url": "https://github.com/sdras/awesome-actions#official-actions",
-				"children": null
-			},
-			{
-				"title": "Create your Actions",
-				"url": "https://github.com/sdras/awesome-actions#create-your-actions",
-				"children": null
-			}
-		]
-	},
-	{
-		"title": "Community Resources",
-		"url": "https://github.com/sdras/awesome-actions#community-resources",
-		"children": [
-			{
-				"title": "GitHub Tools and Management",
-				"url": "https://github.com/sdras/awesome-actions#github-tools-and-management",
-				"children": null
-			},
-			{
-				"title": "Collection of Actions",
-				"url": "https://github.com/sdras/awesome-actions#collection-of-actions",
-				"children": null
-			},
-			{
-				"title": "Utility",
-				"url": "https://github.com/sdras/awesome-actions#utility",
-				"children": null
-			},
-			{
-				"title": "Static Analysis",
-				"url": "https://github.com/sdras/awesome-actions#static-analysis",
-				"children": null
-			},
-			{
-				"title": "Monitoring",
-				"url": "https://github.com/sdras/awesome-actions#monitoring",
-				"children": null
-			},
-			{
-				"title": "Pull Requests",
-				"url": "https://github.com/sdras/awesome-actions#pull-requests",
-				"children": null
-			},
-			{
-				"title": "GitHub Pages",
-				"url": "https://github.com/sdras/awesome-actions#github-pages",
-				"children": null
-			},
-			{
-				"title": "Notifications and Messages",
-				"url": "https://github.com/sdras/awesome-actions#notifications-and-messages",
-				"children": null
-			},
-			{
-				"title": "Deployment",
-				"url": "https://github.com/sdras/awesome-actions#deployment",
-				"children": null
-			},
-			{
-				"title": "External Services",
-				"url": "https://github.com/sdras/awesome-actions#external-services",
-				"children": null
-			},
-			{
-				"title": "Frontend Tools",
-				"url": "https://github.com/sdras/awesome-actions#frontend-tools",
-				"children": null
-			},
-			{
-				"title": "Machine Learning Ops",
-				"url": "https://github.com/sdras/awesome-actions#machine-learning-ops",
-				"children": null
-			},
-			{
-				"title": "Build",
-				"url": "https://github.com/sdras/awesome-actions#build",
-				"children": null
-			},
-			{
-				"title": "Database",
-				"url": "https://github.com/sdras/awesome-actions#database",
-				"children": null
-			},
-			{
-				"title": "Localization",
-				"url": "https://github.com/sdras/awesome-actions#localization",
-				"children": null
-			},
-			{
-				"title": "Cheat Sheet",
-				"url": "https://github.com/sdras/awesome-actions#cheat-sheet",
-				"children": null
-			}
-		]
-	},
-	{
-		"title": "Tutorials",
-		"url": "https://github.com/sdras/awesome-actions#tutorials",
-		"children": null
-	}
+  {
+    "title": "Official Resources",
+    "url": "https://github.com/sdras/awesome-actions#official-resources",
+    "children": [
+      {
+        "title": "Workflow Examples",
+        "url": "https://github.com/sdras/awesome-actions#workflow-examples",
+        "children": null
+      },
+      {
+        "title": "Official Actions",
+        "url": "https://github.com/sdras/awesome-actions#official-actions",
+        "children": null
+      },
+      {
+        "title": "Create your Actions",
+        "url": "https://github.com/sdras/awesome-actions#create-your-actions",
+        "children": null
+      }
+    ]
+  },
+  {
+    "title": "Community Resources",
+    "url": "https://github.com/sdras/awesome-actions#community-resources",
+    "children": [
+      {
+        "title": "GitHub Tools and Management",
+        "url": "https://github.com/sdras/awesome-actions#github-tools-and-management",
+        "children": null
+      },
+      {
+        "title": "Collection of Actions",
+        "url": "https://github.com/sdras/awesome-actions#collection-of-actions",
+        "children": null
+      },
+      {
+        "title": "Utility",
+        "url": "https://github.com/sdras/awesome-actions#utility",
+        "children": null
+      },
+      {
+        "title": "Static Analysis",
+        "url": "https://github.com/sdras/awesome-actions#static-analysis",
+        "children": null
+      },
+      {
+        "title": "Monitoring",
+        "url": "https://github.com/sdras/awesome-actions#monitoring",
+        "children": null
+      },
+      {
+        "title": "Pull Requests",
+        "url": "https://github.com/sdras/awesome-actions#pull-requests",
+        "children": null
+      },
+      {
+        "title": "GitHub Pages",
+        "url": "https://github.com/sdras/awesome-actions#github-pages",
+        "children": null
+      },
+      {
+        "title": "Notifications and Messages",
+        "url": "https://github.com/sdras/awesome-actions#notifications-and-messages",
+        "children": null
+      },
+      {
+        "title": "Deployment",
+        "url": "https://github.com/sdras/awesome-actions#deployment",
+        "children": null
+      },
+      {
+        "title": "External Services",
+        "url": "https://github.com/sdras/awesome-actions#external-services",
+        "children": null
+      },
+      {
+        "title": "Frontend Tools",
+        "url": "https://github.com/sdras/awesome-actions#frontend-tools",
+        "children": null
+      },
+      {
+        "title": "Machine Learning Ops",
+        "url": "https://github.com/sdras/awesome-actions#machine-learning-ops",
+        "children": null
+      },
+      {
+        "title": "Build",
+        "url": "https://github.com/sdras/awesome-actions#build",
+        "children": null
+      },
+      {
+        "title": "Database",
+        "url": "https://github.com/sdras/awesome-actions#database",
+        "children": null
+      },
+      {
+        "title": "Localization",
+        "url": "https://github.com/sdras/awesome-actions#localization",
+        "children": null
+      },
+      {
+        "title": "Cheat Sheet",
+        "url": "https://github.com/sdras/awesome-actions#cheat-sheet",
+        "children": null
+      }
+    ]
+  },
+  {
+    "title": "Tutorials",
+    "url": "https://github.com/sdras/awesome-actions#tutorials",
+    "children": null
+  }
 ]
