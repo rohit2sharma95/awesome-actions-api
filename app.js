@@ -21,7 +21,7 @@ const { README_URL, REPO_URL } = require('./lib/constants');
     fs.rmdirSync('./data', { recursive: true });
   }
   fs.mkdirSync('./data');
-  fs.writeFile('./data/content.json', JSON.stringify(data, null, '\t'), null, () => {
+  fs.writeFile('./data/content.json', JSON.stringify(data, null, 2), null, () => {
     console.log('Data updated successfully');
   });
 })();
